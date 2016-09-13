@@ -15,3 +15,5 @@ minimalist python source code for educational thermodynamics
 * flash calculations
 * pure solids
 * stability analysis
+* chemical reaction
+* combustion engines
