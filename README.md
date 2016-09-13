@@ -2,8 +2,8 @@
 minimalist python source code for educational thermodynamics
 
 # goals:
-* 1st law
-* 2nd law
+* mass balance, energy balance and the 1st law
+* entropy and the 2nd law
 * equations of state
 * PxH diagrams
 * pure substance L-V saturation point
