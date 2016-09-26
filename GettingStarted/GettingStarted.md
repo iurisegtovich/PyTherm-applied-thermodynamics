@@ -1,14 +1,31 @@
+~this is a brainstorming draft~
+
 # Getting Started
+
+so this is our repository of open source computational resources for students of thermodynamics,
+this is developed for students that may yet not know what github or python is
+so  GitHub is this website that provides hosting of our resources as well as those or many other users/scienteis/engineers etc,
+while the content is developed and curated by us members of this research group, and accepting sugestions/contributions. 
+
+you can browse through our resources and maybe interact with them directly from a internet browser in your PC/mobile, simply click each ?.ipynb file and let github render its graphical visualization
+
+you can download these resources and modify them, for that you need Jupyter notebook enviroment to run ipynb files, which combines Python language, numpy/sympy/matplotlib libraries. the instalation of theses is provided by Anaconda -- it's free
+
+you can also contribute sugegsting modifications
+for that purpose you will need an  account in  github, for minor propositions -- also free
+but you may also need to isntall Git tools < https://git-scm.com/ > -- git is a software for version control -- for submission of more complex modifications (a modification that afects simultaneously more than one file) -- free too
+
 * GIT
 * GITHUB
-* PYTHON
+
+* PYTHON 
 * NUMPY
 * SYMPY
 * MATPLOTLIB
+
 * JUPYTER
 
-the following is a draft of what is to come  
- 
+* ANACONDA
 
 First of all, what is python, what is ipynb?  
     
