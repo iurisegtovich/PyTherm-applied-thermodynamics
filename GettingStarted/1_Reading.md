@@ -1,7 +1,1 @@
-#In windows
-https://git-scm.com/download/win
-
-#In linux
-https://git-scm.com/download/linux
-
-* Access GitHub at < https://github.com/ > and sign up
+just browse our github repository and read our ipynb as if they were pages of a textbook
