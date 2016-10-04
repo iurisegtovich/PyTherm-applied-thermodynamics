@@ -1,1 +1,0 @@
-just browse our github repository and read our ipynb as if they were pages of a textbook
