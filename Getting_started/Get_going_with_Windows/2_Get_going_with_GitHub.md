@@ -1,3 +1,5 @@
+~this is a draft~
+
 Get going with GitHub.
 ==
 In order to be able to submit your contributions you will need to have a account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:
@@ -11,8 +13,7 @@ In order to be able to submit your contributions you will need to have a account
 >>- *pull*
 >>
 >>> **edit the material**
->>>- use jupyter notebook for \*.ipynb files
->>>- maybe use jupyter notebook for \*.md files
+>>>- using jupyter notebook
 >>
 >>- *stage*
 >>- *commit*
@@ -53,7 +54,7 @@ In order to be able to submit your contributions you will need to have a account
 
 ## time for those modifications
 
-just edit the files using jupyter notebook, see [Get going with jupyter notebook](https:www.github.com/iurisegtovich/PyTherm/Getting_started/Get_going_with_Jupyter_notebook)  for that, if you havent already.
+just edit the files using jupyter notebook, see [Get going with jupyter notebook](https://github.com/iurisegtovich/PyTherm/blob/master/Getting_started/Get_going_with_Windows/1_Get_going_with_Jupyter_notebook.md)  for that, if you havent already. You can use jupyter notebook both for \*.ipynb files and \*.md files.
 
 > **Note:**  if you downloaded zip, extract, edit, then any modification you made there can enter here by pasting/replacing your files with the files just pulled from the repository.
 

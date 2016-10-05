@@ -1,4 +1,5 @@
-~this is a brainstorming draft~
+~this is a draft~
+
 # Getting Started
 This is our repository of open source computational resources for students of Thermodynamics. Our target audience are students that may not yet know what *GitHub* or *Python* is, so we will present brief introductions and point to some tutorial material on both of them.
 First of all, *GitHub* is this website , where you are most likely reading this text. It provides hosting of open source projects from developers (students, researchers, engineers) from all around the world, including us. You can always read more about it on [Wikipedia](https://en.wikipedia.org/wiki/GitHub).
