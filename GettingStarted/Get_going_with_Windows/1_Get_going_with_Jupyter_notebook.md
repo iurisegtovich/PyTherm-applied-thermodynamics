@@ -1,3 +1,5 @@
+Get going with jupyter notebook
+==
 
 install anaconda
 
