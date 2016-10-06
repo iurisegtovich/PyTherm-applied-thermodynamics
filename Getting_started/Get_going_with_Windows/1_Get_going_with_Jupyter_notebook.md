@@ -1,8 +1,8 @@
 ~this is a draft~
 
-Get going with jupyter notebook
+Get going with *jupyter notebook*
 ==
-In order to be able to interact and modify our material you will need to install python, numpy, sympy, matplotlib and juyter notebook, thay all come together in a bundle by *Anaconda*.
+In order to be able to interact and modify our material you will need to install *python*, *numpy*, *sympy*, *matplotlib* and *juyter notebook*, thay all come together in a bundle by *Anaconda*.
 
 Here are the key steps to interact with our material and modify them:
 
@@ -39,7 +39,10 @@ anyways, place the files in a directory that jupyter notebook can find, as menti
 
 ## Interact
 
-open each \*ipynb file in your execution of jupyter notebook
-* just browse the folders in the directory tree view of jupyter notebook to find them and click it!
+
+open each `\*.ipynb` file is  file in your execution of jupyteran ipython notebook file notebook
+>`\*.ipynb` stands for *ipython notebook*, that is a file containing a mix of python code and descriptive text, that runs on the ipython kernel, that in turn, you can run on jupyter nortebook.
+
+* just browse the folders in the directory tree view of *Jupyter notebook* to find them and click it!
 
 start with the [beginners coures](https://github.com/iurisegtovich/PyTherm/tree/master/Get_involved/1_Beginner) according to levels, there we will explain the essential of python, the libraries tha we want use and jupyter notebook itself treating the simplest problems of classical thermodynamics.
