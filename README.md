@@ -1,5 +1,5 @@
 # PyTherm
-Minimalist python source code for educational thermodynamics.
+Educational ipython source code for applied thermodynamics.
 
 come and see our getting started text.
 
@@ -32,6 +32,9 @@ come and see our getting started text.
 >>>- `your name here`
 >>
 >> **Tools and licenses**
+>>
+>>> Learn about open source licences [here](https://opensource.org/licenses).
+>>
 >>- Git
 >>> ...
 >>- GitHub
