@@ -24,6 +24,7 @@ There is plenty of learning material regarding these specific tools on the web. 
 * *Python*
 	* [official page](https://www.python.org/)
 	* [official "getting started"](https://www.python.org/about/gettingstarted/)
+	* [CodeCademy](https://www.codecademy.com/courses/introduction-to-python-6WeG3)'s introduction to python.
 * *numpy*
 	* [official page](http://www.numpy.org/)
 * *sympy*
