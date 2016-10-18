@@ -25,20 +25,22 @@ Here are the key steps to interact with our material and modify them:
 * find `Anaconda3 (64-bit)` in your start menu folders and click `Jupyter Notebook` to start it
 now a terminal screen should open, and after a few seconds a tab in your browser should open with the address `http://localhost:8888/tree/`
 You will be able to see a directory browsing tree view showing some of the files on your PC, probably just the ones under `Libraries`, i.e. `My documents`,`My pictures`,`My videos` and `My music`
-Now you have to download our material and place it inside some of these folders, e.g. inside `My documents\PyTherm\GITSYNC`. (note that we recommend the directory name Pytherm to identify the project and the subdirectory name GITSYNC to identify that those are the files downloaded from github and that you might want to synchronize with the official repository when someone contributes with new stuff.)
+Now you have to download our material:
 
 ## Download our material from GitHub
 you can dowload it either as a guest on github, as a zip file
 
-* as a zip file using your browser
+* a) as a zip file using your browser
+>* click the green button "Clone or download"
+>* choose "Download ZIP"
 
-or usng git tools, which you would have to use to do if you ever you want to submit modifications
+Place the downloade files inside some of these folders, e.g. inside `My documents\PyTherm\GITSYNC`. (note that we recommend the directory name Pytherm to identify the project and the subdirectory name GITSYNC to identify that those are the files downloaded from github and that you might want to synchronize with the official repository when someone contributes with new stuff.)
+
+or using git tools, which you would have to use if you ever want to submit modifications
+
 - b) using Git tools, *pull* (see [Get going with GitHub](https://github.com/iurisegtovich/PyTherm/blob/master/Getting_started/Get_going_with_Windows/2_Get_going_with_GitHub.md) )
 
-anyways, place the files in a directory that jupyter notebook can find, as mentioned before
-
 ## Interact
-
 
 open each `\*.ipynb` file is  file in your execution of jupyteran ipython notebook file notebook
 >`\*.ipynb` stands for *ipython notebook*, that is a file containing a mix of python code and descriptive text, that runs on the ipython kernel, that in turn, you can run on jupyter nortebook.
