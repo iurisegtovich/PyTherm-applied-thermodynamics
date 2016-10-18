@@ -9,10 +9,10 @@ Educational ipython source code for applied thermodynamics.
 >* **Then check out our [beginner level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/1_Beginner) material.**
 
 * Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
->  **Our [intermediate level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/2_Intermediate) directory will act as a laboratory for analysis, development and testing of models and algorithms.**
+>*  **Our [intermediate level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/2_Intermediate) directory will act as a laboratory for analysis, development and testing of models and algorithms.**
 
 * Develop research level packages for advanced level graduate students and researchers, in subtopics of applied thermodynamics that are missing in open source community.
->**Our [advanced level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/3_Advanced) directory will act as a software incubator to span independent projects or add-ons to existing projects.**
+>* **Our [advanced level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/3_Advanced) directory will act as a software incubator to span independent projects or add-ons to existing projects.**
 
 * **Current topics of interest in our research include:**
   * Education in classical thermodynamics
@@ -74,5 +74,5 @@ Educational ipython source code for applied thermodynamics.
 - Jupyter notebook
 > ...
 
-- [Ipython]() [(BSD license)]().
+- [Ipython](https://ipython.org) [(BSD license)](https://opensource.org/licenses/BSD-3-Clause).
 > Several of the authors of IPython are connected with academic and scientific research, so it is important for us to be able to show the impact of our work in other projects and fields. If IPython contributes to a project that leads to a scientific publication, please acknowledge this fact by citing the project. You can use this [ready-made citation entry](https://ipython.org/citing.html).
