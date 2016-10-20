@@ -1,0 +1,1 @@
+see [0_Getting_started](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/0_Getting_started.md)

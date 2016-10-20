@@ -1,0 +1,1 @@
+see [0_Get_involved](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/0_Get_involved.md)
