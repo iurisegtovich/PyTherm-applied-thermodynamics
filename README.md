@@ -4,7 +4,7 @@ Educational ipython source code for applied thermodynamics.
 
 # Goals:
 
-* Develop study material for beginners in thermodynamics and in programming / scientific computing.
+* Develop study material for beginners in thermodynamics and in programming / scientific computing. 
 >* **Come and see our [getting started text](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/0_Getting_started.md)!**
 >* **Then check out our [beginner level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/1_Beginner) material.**
 
