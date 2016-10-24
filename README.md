@@ -4,8 +4,8 @@ Educational ipython source code for applied thermodynamics.
 
 # Goals:
 
-* Develop study material for beginners in thermodynamics and in programming / scientific computing. 
->* **Come and see our [getting started text](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/0_Getting_started.md)!**
+* Develop study material for beginners in thermodynamics and in programming / scientific computing.
+>* **Come and see our [getting started text](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started)!**
 >* **Then check out our [beginner level](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/1_Beginner) material.**
 
 * Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
@@ -54,6 +54,7 @@ Educational ipython source code for applied thermodynamics.
 > The Git project chose to use GPLv2 to guarantee your freedom to share and change free software---to make sure the software is free for all its users.
 
 - [GitHub](https://help.github.com/articles/github-terms-of-service/)
+> GitHub Terms of Service
 
 - [Anaconda](https://docs.continuum.io/anaconda/eula) (BSD license)
 > All rights reserved under the 3-clause BSD License.

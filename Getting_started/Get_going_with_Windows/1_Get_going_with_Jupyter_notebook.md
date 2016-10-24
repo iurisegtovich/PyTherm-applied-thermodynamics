@@ -45,7 +45,7 @@ Place the downloaded files inside some of the folders mentioned before, e.g. ins
 
 * Option b) *fork* us on gitHub and *clone* the repositpory files using Git tools
 >* You will have to use this approach, if you ever want to submit modifications
->* See [Get going with GitHub](https://github.com/iurisegtovich/PyTherm/blob/master/Getting_started/Get_going_with_Windows/2_Get_going_with_GitHub.md)
+>* See [Get going with GitHub](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/Get_going_with_Windows/2_Get_going_with_GitHub.md)
 
 ## Interact
 
@@ -54,4 +54,4 @@ open the `*.ipynb` file you want to read in jupyter-notebook on your browser
 
 * just browse the folders in the directory tree view of *Jupyter notebook* to find the *.ipynb files and click on them!
 
-start with the [beginner's course](https://github.com/iurisegtovich/PyTherm/tree/master/Get_involved/1_Beginner). there we will explain the essential of python, the libraries that we use and jupyter notebook itself by treating the simplest problems of classical thermodynamics.
+start with the [beginner's course](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner). there we will explain the essential of python, the libraries that we use and jupyter notebook itself by treating the simplest problems of classical thermodynamics.
