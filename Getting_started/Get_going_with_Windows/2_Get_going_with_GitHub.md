@@ -1,5 +1,5 @@
-Get going with *GitHub*.
-==
+# Get going with *GitHub*.
+
 In order to be able to submit your contributions you will need to have an account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:
 
 >**GitHub**
@@ -23,7 +23,7 @@ In order to be able to submit your contributions you will need to have an accoun
 
 ### fork our repository
 
-* Access [our repository](https://github.com/iurisegtovich/PyTherm) and click the fork button, then you will get a copy of our material in your profile to modify it as you wish.
+* Access [our repository](https://github.com/iurisegtovich/PyTherm) and click the **fork** button, then you will get a copy of our material in your personal profile and you will be able to modify it as you wish.
 
 ## install *Git*
 
