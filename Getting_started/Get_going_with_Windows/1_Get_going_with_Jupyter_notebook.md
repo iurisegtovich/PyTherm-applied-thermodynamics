@@ -14,14 +14,14 @@ Here are the key steps to interact with our material and modify them:
 >- Interact
 
 ## Install *Anaconda*
-* Access their [official site](https://www.continuum.io/downloads), download the setup file `Anaconda3-4.1.1-Windows-x86_64.exe`.
+* Access their [official site](https://www.continuum.io/downloads#windows), download the setup file at `Python 3.5 version` > `64-BIT INSTALLER` or `32-BIT INSTALLER`, dependeing on your own operational system.
 * Run the installer
   * complete the installation proccess
   now you should have anaconda installed with python, jupyter notebook, along with many libraries including numpy, sympy and matplotlib
 
 ## Start *Jupyter notebook*
-* find `Anaconda3 (64-bit)` in your start menu folders and click `Jupyter Notebook` to start it
-now a terminal screen should open, and after a few seconds a tab in your browser should open with the address `http://localhost:8888/tree/`
+* find `Anaconda3 (??-bit)` in your start menu folders and click on `Jupyter Notebook` to start it.
+Now a terminal screen should open, and after a few seconds a tab in your browser should open with the address `http://localhost:8888/tree/`.
 You will be able to see a directory browsing tree view showing some of the files on your PC, probably just the ones under `Libraries`, i.e. `My documents`,`My pictures`,`My videos` and `My music`
 Now you have to download our material:
 
@@ -49,8 +49,8 @@ Place the downloaded files inside some of the folders mentioned before, e.g. ins
 
 ## Interact
 
-open the `\*.ipynb` file you want to read in jupyter-notebook on your browser
->`\*.ipynb` stands for *ipython notebook*, that is a file containing a mix of python code and descriptive text, that runs on the ipython kernel, that in turn, you can run on jupyter nortebook.
+open the `*.ipynb` file you want to read in jupyter-notebook on your browser
+>`*.ipynb` stands for *ipython notebook*, that is a file containing a mix of python code and descriptive text, that runs on the ipython kernel, that in turn, you can run on jupyter nortebook.
 
 * just browse the folders in the directory tree view of *Jupyter notebook* to find the *.ipynb files and click on them!
 

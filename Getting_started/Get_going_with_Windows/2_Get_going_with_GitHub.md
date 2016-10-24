@@ -27,7 +27,7 @@ In order to be able to submit your contributions you will need to have an accoun
 
 ## install *Git*
 
-* Access their [official site](https://git-scm.com/), download the setup file `Git-2.10.0-64-bit.exe`.
+* Access their [official site](https://git-scm.com/download/win), download the setup file at `32-bit Git for Windows Setup` or `64-bit Git for Windows Setup`, dependeing on your own operational system.
 * Run the installer
 	* **accept GNU General Public License** [next]
 	* **choose a destination folder**, the default option is fine [next]
