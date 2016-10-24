@@ -1,4 +1,4 @@
-# Intermediate's course
+# Intermediate codes' directory
 
 In this folder you will find jupyter notebooks to present solutions of usual problems in applied thermodynamics. These notebooks will be used to analyze, compare and present solutions of problems. Here we will no longer provide comments on python syntax.
 
