@@ -1,5 +1,7 @@
 # Get involved
+
 We will organize our source codes, divided in three categories:
+
 * The **[beginners](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/1_Beginner)** directory will host jupyter notebooks adressing simple problems in applied thermodynamics. These notebooks will expose basic concepts of applied thermodynamics along with comments on python syntax and the usage of the jupyter notebook itself.
 
 * The **[intermediate](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/2_Intermediate)** directory will host jupyter notebooks to present solutions of usual problems in applied thermodynamics. These notebooks will be used to analyze, compare and present solutions of problems. Here we will no longer provide comments on python syntax.

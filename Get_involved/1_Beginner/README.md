@@ -1,4 +1,5 @@
 # Beginner codes' directory
+
 In this folder you will find jupyter notebooks adressing simple problems in applied thermodynamics. These notebooks will expose basic concepts of applied thermodynamics along with comments on python syntax and the usage of the jupyter notebook itself.
 
 ## Goals

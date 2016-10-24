@@ -54,8 +54,7 @@ In order to be able to submit your contributions you will need to have an accoun
 
 just edit the files using jupyter notebook. see [Get going with jupyter notebook](https://github.com/iurisegtovich/PyTherm/blob/master/Getting_started/Get_going_with_Windows/1_Get_going_with_Jupyter_notebook.md) for that, if you haven't done it already. You can use jupyter notebook both for \*.ipynb files and \*.md files.
 
-> **Note:**  if you downloaded zip, extract, edit, then any modification you made there can enter here by pasting/replacing your files with the files just pulled from the repository.
-
+> **Note:**  if you downloaded the zip file, extracted and edit the files, then any modification you made there can enter here by pasting/replacing your files with the files just pulled from the repository.
 
 ## stage
 * click rescan and git will find out whatever you changed in the project.
@@ -69,7 +68,6 @@ just edit the files using jupyter notebook. see [Get going with jupyter notebook
 
 to upload the new version to you online github profile you need to *push*
 * click push (remote (origin)) -- this will open a github login window, you have to enter your authntification
-
 
 ## create a pull request
 to submit it to our official repository you need to create a pull request
