@@ -2,20 +2,17 @@
 
 In order to be able to submit your contributions you will need to have an account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:
 
->**GitHub**
->- sign up
->- fork our repository
->
->> **Git**
->>- install
->>- *pull*
->>
->>> **edit the material**
->>>- using jupyter notebook
->>
->>- *stage*
->>- *commit*
->- create a pull request
+> **summary of the steps:** (see details below.)
+>- sign up on *GitHub*
+>- fork our repository to your account
+>- install **Git tools**
+>- clone your fork into your local device
+>- edit the local files of the material using jupyter notebook
+>- use Git tools to
+>>- *stage* changed files
+>>- *commit* modifications with a descriptive message
+>>- *push* the modifications to your remote fork
+>- create a pull request so we can merge your modified remote fork into our main repository
 
 ## sign up on *GitHub*
 
@@ -39,7 +36,7 @@ In order to be able to submit your contributions you will need to have an accoun
 	* **configuring extra options** - enable caching and credential manager, as default [install]
 	* **launch** choose not to launch *git bash* yet [finish]
 
-## "git pull"
+## "clone"
 
 * Using Git GUI (graphical user interface mode)
 	* create a folder in your device named so you can identify the project, e.g. `C:\Users\_your_windows_user_name_here_\Documents\PyTherm`
