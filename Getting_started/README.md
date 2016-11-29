@@ -22,26 +22,30 @@ From here, you can start reading our material (["Get involved"](https://github.c
 
 There is plenty of learning material regarding these specific tools on the web. We recommend some, in case you want to learn more, independently.
 
-* *Python*
-	* [official page](https://www.python.org/)
-	* [official "getting started"](https://www.python.org/about/gettingstarted/)
-	* [CodeCademy](https://www.codecademy.com/courses/introduction-to-python-6WeG3)'s introduction to python.
-* *numpy*
-	* [Official page](http://www.numpy.org/)
-  * *scipy*
-  	* [Official page](https://www.scipy.org/)  
-* *sympy*
+* *Python / NumPy / Scipy / matplotlib*:
+	* [Python official page](https://www.python.org/)
+	* [Python official "getting started"](https://www.python.org/about/gettingstarted/)
+	* [CodeCademy on Python](https://www.codecademy.com/courses/introduction-to-python-6WeG3)'s introduction to python.
+	* [NumPy Official page](http://www.numpy.org/)
+  	* [Scipy Official page](https://www.scipy.org/)  
+	* [matplotlib Official page](http://matplotlib.org/)
+	* [magaitan' lectures on scientific python (en español)](https://github.com/mgaitan/curso-python-cientifico)
+	* ["A set of lectures on scientific computing with Python, using IPython notebooks", by Robert Johansson."](https://github.com/jrjohansson/scientific-python-lectures)
+
+* *SymPy:*
  	* [Official page](http://www.sympy.org/en/index.html)
-* *matplotlib*
-	* [Official page](http://matplotlib.org/)
-* *Jupyter notebook*
+
+* *Jupyter notebook*:
 	* [Official page](https://jupyter.org/)
 	* [Official beginner's guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
-* *Anaconda*
+
+* *Anaconda*:
 	* [Official page](https://www.continuum.io)
+
 * *GitHub*:
 	* [Official page](https://github.com/)
 	* [The "hello world on GitHub" guide](https://guides.github.com/activities/hello-world/)
-* *Git*
+
+* *Git*:
 	* [Official page](https://git-scm.com/)
 	* ["Learn Git in your browser in 15 min"](http://try.github.io/)
