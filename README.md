@@ -8,7 +8,7 @@ Educational ipython source code for applied thermodynamics.
 >- new folder 5-syntax cheat sheet, samples, examples, tests: lists arrays and matrices
 >- Fixes in all notebooks
 >- Lecture on "Elementary Calculations of Molar Volume and Saturation Pressure from a Cubic Equation Of State", in jupyter notebook format, in portuguese pt-BR. [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/3a_pt_BR_Aula.._C%C3%A1lculo_Simples_do_VolumeMolar_e_Press%C3%A3oDeSatura%C3%A7%C3%A3o_a_partir_de_uma_Equa%C3%A7%C3%A3oDeEstadoC%C3%BAbica.ipynb)
-
+>- Lecture on methane hydrates [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/3d_methane_hydrates.ipynb)
 # Goals:
 
 * Develop study material for beginners in thermodynamics and in programming / scientific computing.
