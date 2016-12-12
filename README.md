@@ -3,12 +3,12 @@
 Educational ipython source code for applied thermodynamics.
 
 >**News**
->- lecture 1-beginner-3c: the NRTL model and some linear algebra
->- new folder 4-text-l ibrary: AbreuC.R.A., Matrix Algebra and Matrix Differentiation Rules Applied to Excess Gibbs Energy Models
->- new folder 5-syntax cheat sheet, samples, examples, tests: lists arrays and matrices
->- Fixes in all notebooks
->- Lecture on "Elementary Calculations of Molar Volume and Saturation Pressure from a Cubic Equation Of State", in jupyter notebook format, in portuguese pt-BR. [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/3a_pt_BR_Aula.._C%C3%A1lculo_Simples_do_VolumeMolar_e_Press%C3%A3oDeSatura%C3%A7%C3%A3o_a_partir_de_uma_Equa%C3%A7%C3%A3oDeEstadoC%C3%BAbica.ipynb)
+>- lectures zero - basic syntax, variables and functions at the python tutor live platform [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/0_basic_syntax_variables_functions_arguments_pointers_lists)
 >- Lecture on methane hydrates [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/3d_methane_hydrates.ipynb)
+>- new folder 5-syntax cheat sheet, samples, examples, tests: lists arrays and matrices [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/5_Syntax_cheat_sheets,_examples,_samples,_tests)
+>- lecture 1-beginner-3c: the NRTL model and some linear algebra [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner/3c_NRTL_and_some_linear_algebra.ipynb)
+>- new folder 4-text-l ibrary: AbreuC.R.A., Matrix Algebra and Matrix Differentiation Rules Applied to Excess Gibbs Energy Models [Here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/4_Texts_Library)
+
 # Goals:
 
 * Develop study material for beginners in thermodynamics and in programming / scientific computing.
