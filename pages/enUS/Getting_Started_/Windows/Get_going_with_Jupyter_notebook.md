@@ -1,3 +1,7 @@
+# Menu
+
+[Home](/pages/enUS/Getting_Started)
+
 # Get going with *jupyter notebook*
 
 In order to be able to interact and modify our material you will need to install *python*, *numpy*, *sympy*, *matplotlib* and *jupyter notebook*. They all come together in a bundle by *Anaconda*.

@@ -1,3 +1,7 @@
+# Menu
+
+[Home](/pages/enUS/Getting_Involved)
+
 # Get going with *GitHub*.
 
 In order to be able to submit your contributions you will need to have an account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:
