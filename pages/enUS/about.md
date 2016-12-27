@@ -79,7 +79,7 @@ We prepared a Getting Started text to help interested folks with minimal backgro
 
 Access the complete Table of Contents in one of the two formats below
 
-**In order to read pre-calculated results rendered by GitHub built-in notebook viewer on your browser, click [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/enUS/index.ipynb)**
+**In order to read pre-calculated results rendered by GitHub built-in notebook viewer on your browser, click [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)**
 
 **In order to launch our material in interactive cloud computing mode supported by myBinder, click [here](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)** (this may take a while depending on the server. [c.f. mybinder-faq](http://docs.mybinder.org/faq))
 
