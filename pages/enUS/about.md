@@ -1,42 +1,39 @@
 # The Pytherm project
 
-This is our project of open source computational resources for students of Thermodynamics. Our target audience are students that may not yet know what *GitHub* or *Python* is, so we will present brief introductions and point to some tutorial material on both of them.
-First of all, *GitHub* is the website that provides hosting of open source projects from developers (students, researchers, engineers) from all around the world, including us.
+This is our project of open source computational resources for students of Applied Thermodynamics. Our target audience are students that may not yet know what *Python* is, so we will present brief introductions and point to some tutorial material on that and other tools that we require.
 
-The content you will see here is curated by us members of this research group, and either developed by ourselves or adapted from cited sources. We are always accepting indirect suggestions and direct contributions.
-We are developing our material in the *Python* programming language, through the *Jupyter notebook* interface. If you are not familiar with these tools, *Python* is a programming language that can work with some useful libraries for numerical methods (*numpy*), symbolic algebra (*sympy*) and graphical plots (*matplotlib*) comparable to Matlab. *Jupyter notebook*, on the other hand, is a browser based interface for developing *Python* codes, with intercalating blocks of descriptive documentation and graphical results for easy exposition of the code and underlying ideas in an educational material.
+The content you will see here is curated by us members of this research group, and either developed by ourselves or adapted from cited sources. We are always accepting indirect suggestions as well as direct contributions.
+We are developing our material in the *Python* programming language, through the *Jupyter notebook* interface. If you are not familiar with these tools, *Python* is a programming language that can work with some useful libraries for numerical methods (*numpy*), symbolic algebra (*sympy*) and graphical plots (*matplotlib*) comparable to Matlab. *Jupyter notebook*, on the other hand, is a browser based interface for developing *Python* codes, with intercalating blocks of descriptive documentation and graphical results for easy exposition of the code and underlying ideas in an educational material. Finally, *GitHub* is the website that provides hosting of open source projects from developers (students, researchers, engineers) from all around the world, including ours.
 
 ## Goals
 
+We have divided our goals in three categories
+
 ### Accessible interactive lectures
 
-* Development of study material for beginners in applied thermodynamics with programming / scientific computing.
+* Development of study material for beginners in applied thermodynamics with programming / scientific computing. These materials are suitable for either undergraduate or graduate level courses.
 
-* We are basing our project on scientific computing tools with focus on accessibility: Scipy - the Open Source Library of Scientific Tools - and Anaconda - the leading open data science platform powered by Python, a high performance distribution with access to over 720 packages.
+* We are basing our project on scientific computing tools with focus on accessibility: We are developing lectures using pure python that can run on *python tutor live* on any computer with internet access, and lectures using the scipy stack on jupyter notebooks that can run on a variety of operational systems via the anaconda setup or on cloud computing supported by *myBinder*.
 
-* On our beginner level category, we are developing lectures using pure python that can run on python tutor live on any computer with internet access, and lectures using the scipy stack on jupyter notebooks that can run on a variety of operational systems via the anaconda setup.
+>- **Scipy** - the Open Source Library of Scientific Tools
+>
+>- **Anaconda** - the leading open data science platform powered by Python, a high performance distribution with access to over 720 packages.
+>
+>- **myBinder** - With Binder, you can add a badge that opens those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 100% free and open source.
 
 ### Models & algorithms laboratory
 
-* Publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
+* We intend to publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
 
-*  A virtual laboratory for analysis, development and testing of models and algorithms.
+* We will host a virtual laboratory for analysis, development and testing of models and algorithms.
 
 ### Software incubator
 
-* to fill gaps in the scientific literature of the open source community.
+* We will host a software incubator  to develop research level packages for advanced level graduate students and researchers  to fill gaps in the scientific literature of the open source community.
 
-* Develop research level packages for advanced level graduate students and researchers, in subtopics of applied thermodynamics currently missing from open source community.
+* This will span independent projects that will most likely be hosted in independent GitHub repositories, nevertheless still being part of the PyTherm project. Or even additions to existing projects.
 
-* Our advanced level category will act as a software incubator to span independent projects or add-ons to existing projects.
-
-* Expect only pure python codes and performance optimization tools,
-
-* span independent projects or add-ons to existing projects.
-
-* Expect also references to external available packages here rather than reinventions, when applicable.
-
-* These will most likely be hosted in independent GitHub repositories, nevertheless still being part of the PyTherm project
+* Expect usage of performance optimization tools and references to external available packages here rather than reinventions, when applicable.
 
 >**Current topics of interest in our research include:**
 >
@@ -58,65 +55,44 @@ We are developing our material in the *Python* programming language, through the
 >   * Bubble point and dew point calculations
 >   * Flash calculations
 
-## Results
-
-### A graphical abstract
-
-* [1,1] ideal gas in the python tutor live
-
-* [1,2] vdwnp in the jupyter-notebook with ipython
-
-* [2,1] linear algebra NRTL
-
-* [2,2] phase equilibrium diagrams
-
-### Feedback
-
 # Contents
 
 ## Getting Started
 
-Reading our material is straightforward from your browser
+Reading our material is straightforward from your browser:
 
-* run ptl lecture (lecture zero) on the browser
+* You can run lecture zero on *python tutor live* from your browser
 
-* read our pre-calculated ipynb lectures  on the browser
+* You can read our pre-calculated ipynb lectures rendered by GitHub on your browser too
 
-* try to interact with them using binder on the browser
+* You can interact with the notebooks from the ipynb lectures using binder on your browser, with cloud computing supported by myBinder
 
-For these two kind of involvement just scroll to the TOC and click on the materials
+For these three kinds of involvement, just skip to our complete Table of contents and choose specific materials.
 
-Anyways, to interact with our ipynb lectures locally, you need t setup anaconda
+While, in order to interact with our ipynb lectures locally, you need to setup anaconda
 
 * setup *Anaconda* to interact with our ipynb lectures locally
 
-We prepared a Getting Started text to help interested with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started):
+We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started).
 
 ## Our material
 
-access the Complete Table of Contents in one of the two formats below
+Access the complete Table of Contents in one of the two formats below
 
-1. **REad precalculTED RESULTS RENDEREND by gitHub on your browser**
+**In order to read pre-calculated results rendered by GitHub built-in notebook viewer on your browser, click [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/enUS/index.ipynb)**
 
-[click](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/enUS/index.ipynb)
-
-2. **Launch in interactive cloud computing supported by myBinder**
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)
-
- (may take a while depending on the [server](http://docs.mybinder.org/faq) )
+**In order to launch our material in interactive cloud computing mode supported by myBinder, click [here](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)** (this may take a while depending on the server. [c.f. mybinder-faq](http://docs.mybinder.org/faq))
 
 ## Getting Involved
 
-To get involved in our collaborative effort
-* sign up on github
-  * star
-  * watch
-  * fork
-  * improve or develop
-  * submit
+To get involved in our collaborative effort, sign up on GitHub to be able to
+  * star (1 click to show us your support)
+  * watch (receive notifications of updates via email)
+  * fork (have a full featured copy of our project into your account to do as you please)
+  * improve or develop (got any ideas? create or solve *issues*)
+  * submit (we will evaluate your proposals and merge into our project, become a collaborator)
 
-We prepared a getting involved text with direction to setup github/git tools and submit stuff [here](/pages/enUS/Getting_Involved):
+We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](/pages/enUS/Getting_Involved).
 
 # Credits
 

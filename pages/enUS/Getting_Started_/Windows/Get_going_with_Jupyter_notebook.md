@@ -24,21 +24,9 @@ You can download it in the form of a zip file containing the latest release vers
 
 However, note that if you [sign up](https://github.com/join?source=header-home) on GitHub, you can, in addition to downloading the latest version of our material as a zip file, you will be able to:
 
-* **watch** the repository
-> that means you will automatically receive emails when we update the material.
-* **star** the repository
-> that serves just shows people that you like our work, the more stars we have, the more visibility we achieve inside GitHub's network
-* **fork** the repository
-> you will get a copy of the repository in your personal profile, it will be publicly visible and you will be able to modify it as you wish, independently of our original repository.
-
-* Option a) -*the simplest*-
 > Download as a zip file, using just your browser:
 >* click the green button "Clone or download"
 >* choose "Download ZIP"
-
-* Option b) -*if you want to submit contributions via GitHub*-
-> *fork* us on *GitHub* and *clone* the repositpory files using Git tools
->* See [Get going with GitHub](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/Get_going_with_Windows/2_Get_going_with_GitHub.md) for details
 
 ## Start *Jupyter notebook*
 * find `Anaconda3 (??-bit)` in your start menu folders and click on `Jupyter Notebook` to start it.
@@ -53,5 +41,3 @@ open the `*.ipynb` file you want to read in jupyter-notebook on your browser
 >`*.ipynb` stands for *ipython notebook*, that is a file containing a mix of python code and descriptive text, that runs on the ipython kernel, that in turn, you can run on jupyter nortebook.
 
 * just browse the folders in the directory tree view of *Jupyter notebook* to find the *.ipynb files and click on them!
-
-start with the [beginner's course](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Get_involved/1_Beginner). there we will explain the essential of python, the libraries that we use and jupyter notebook itself by treating the simplest problems of classical thermodynamics.
