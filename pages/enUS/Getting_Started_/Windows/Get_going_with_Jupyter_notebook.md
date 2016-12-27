@@ -2,6 +2,10 @@
 
 [Home](/pages/enUS/Getting_Started.md)
 
+if broken try the following:
+[alternative relative link 1](/pages/enUS/Getting_Started);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started.html).
+
 # Get going with *jupyter notebook*
 
 In order to be able to interact and modify our material you will need to install *python*, *numpy*, *sympy*, *matplotlib* and *jupyter notebook*. They all come together in a bundle by *Anaconda*.

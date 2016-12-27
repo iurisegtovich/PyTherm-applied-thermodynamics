@@ -2,6 +2,11 @@
 
 [Home](/pages/enUS/about.md)
 
+if broken try the following:
+[alternative relative link 1](/pages/enUS/about);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/about.html).
+
+
 ---
 
 # Getting Involved
@@ -15,6 +20,10 @@ intall git from the official
 it provides releases for win / linux/ mac
 
 we prepared a step-by-step guide for setup on win [here](/pages/enUS/Getting_Involved_/Windows/Get_going_with_Git.md)
+
+if broken try the following:
+[alternative relative link 1](/pages/enUS/Getting_Involved_/Windows/Get_going_with_Git);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Involved_/Windows/Get_going_with_Git.html).
 
 there, we present the steps to start using those tools in a windows environment. However, note that all our material in this repository is open source and should be able to run with the free tools mentioned also in a [free operating system](http://www.ubuntu.com/).
 

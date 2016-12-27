@@ -2,6 +2,10 @@
 
 [Home](/pages/enUS/Getting_Involved.md)
 
+if broken try the following:
+[alternative relative link 1](/pages/enUS/Getting_Involved);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Involved.html).
+
 # Get going with *GitHub*.
 
 In order to be able to submit your contributions you will need to have an account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:

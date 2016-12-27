@@ -75,11 +75,15 @@ While, in order to interact with our ipynb lectures locally, you need to setup a
 
 We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started.md).
 
+if broken try the following:
+[alternative relative link 1](/pages/enUS/Getting_Started);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started.html).
+
 ## Our material
 
 Access the complete Table of Contents in one of the two formats below
 
-**In order to read pre-calculated results rendered by GitHub built-in notebook viewer on your browser, click [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)**
+**In order to read pre-calculated results rendered by nbviewer on your browser, click [here](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)**
 
 **In order to launch our material in interactive cloud computing mode supported by myBinder, click [here](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)** (this may take a while depending on the server. [c.f. mybinder-faq](http://docs.mybinder.org/faq))
 
@@ -93,6 +97,10 @@ To get involved in our collaborative effort, sign up on GitHub to be able to
   * submit (we will evaluate your proposals and merge into our project, become a collaborator)
 
 We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](/pages/enUS/Getting_Involved.md).
+
+if broken try the following:
+[alternative relative link 1](/pages/enUS/Getting_Involved);
+[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Involved.html).
 
 # Credits
 
