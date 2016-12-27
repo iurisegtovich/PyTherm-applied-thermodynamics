@@ -6,11 +6,29 @@ We have a GitHub-pages website, check it out [here]( https://iurisegtovich.githu
 
 # Repository structure:
 
+  * optimized for mybinder navigation:
+
+See on gitHub [here](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/blob/master/index.ipynb)
+
+or
+
+ **Launch in interactive cloud computing supported by myBinder (may take a while depending on the [server](http://docs.mybinder.org/faq) )**
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)
+
 	* ** mainly
 	* python source codes
 	* ipynb files for python sources in jupyter-notebook
 	*  **but also**
 	* codes in any other language as long as the code itself and the methodology used are well documented
+
+	* divide in lectures
+	* assignments
+	* cheat sheets
+	* laboratory
+	* texts
+
+	*  repo divided by availability of lectures in 2 languages
 
 # License
 [Free as in Freedom ](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
