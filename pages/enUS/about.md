@@ -73,7 +73,7 @@ While, in order to interact with our ipynb lectures locally, you need to setup a
 
 * setup *Anaconda* to interact with our ipynb lectures locally
 
-We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started).
+We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started.md).
 
 ## Our material
 
@@ -92,7 +92,7 @@ To get involved in our collaborative effort, sign up on GitHub to be able to
   * improve or develop (got any ideas? create or solve *issues*)
   * submit (we will evaluate your proposals and merge into our project, become a collaborator)
 
-We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](/pages/enUS/Getting_Involved).
+We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](/pages/enUS/Getting_Involved.md).
 
 # Credits
 
