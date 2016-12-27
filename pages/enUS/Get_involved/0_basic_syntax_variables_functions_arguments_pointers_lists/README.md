@@ -1,0 +1,3 @@
+The code presented in "0_basic_syntax_variables_functions_arguments_pointers_lists.py" should be studied on the platform provided by [PythonTutor live](http://www.pythontutor.com/live.html#mode=edit).
+This platform graphically depicts the behavior of variables, assignments, functions and pointers, which is the major source of confusion among beginners in programming.
+See the pre-loaded code in the platform [here](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tree/master/Get_involved/1_Beginner/0_basic_syntax_variables_functions_arguments_pointers_lists/URLs_to_pre_loaded_codes_on_python_tutor_live):
