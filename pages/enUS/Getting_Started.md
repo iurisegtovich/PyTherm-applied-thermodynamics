@@ -1,6 +1,6 @@
 # Menu
 
-[Home](/pages/enUS/about)
+[Home](/pages/enUS/about.md)
 
 ---
 
@@ -15,7 +15,7 @@ install anaconda from the official site
 
 it provides releases for win / linux/ mac
 
-we prepared a step-by-step guide for setup on win [here](/pages/enUS/Getting_Started_/Windows/Get_going_with_Jupyter_notebook)
+we prepared a step-by-step guide for setup on win [here](/pages/enUS/Getting_Started_/Windows/Get_going_with_Jupyter_notebook.md)
 
 there, we present the steps to start using those tools in a windows environment. However, note that all our material in this repository is open source and should be able to run with the free tools mentioned also in a [free operating system](http://www.ubuntu.com/).
 

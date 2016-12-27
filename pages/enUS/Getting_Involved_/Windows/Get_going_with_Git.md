@@ -1,6 +1,6 @@
 # Menu
 
-[Home](/pages/enUS/Getting_Involved)
+[Home](/pages/enUS/Getting_Involved.md)
 
 # Get going with *GitHub*.
 

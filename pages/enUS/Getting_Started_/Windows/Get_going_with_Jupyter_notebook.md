@@ -1,6 +1,6 @@
 # Menu
 
-[Home](/pages/enUS/Getting_Started)
+[Home](/pages/enUS/Getting_Started.md)
 
 # Get going with *jupyter notebook*
 
