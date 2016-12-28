@@ -1,10 +1,6 @@
 # Menu
 
-[Home](/pages/enUS/Getting_Involved.md)
-
-if broken try the following:
-[alternative relative link 1](/pages/enUS/Getting_Involved);
-[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Involved.html).
+[[Home]](../../about) [[Getting Involved]](../../GettingInvolved)
 
 # Get going with *GitHub*.
 

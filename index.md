@@ -3,7 +3,7 @@
 ---
 
 ## To browse the project in english (en-US)
-[click here](/pages/enUS/about.md).
+[click here](pages/enUS/about).
 
 ## Para navegar pelo projeto em português (pt-BR)
-[clique aqui](/pages/ptBR/about.md).
+[clique aqui](pages/ptBR/about).

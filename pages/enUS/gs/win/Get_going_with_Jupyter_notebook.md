@@ -1,10 +1,6 @@
 # Menu
 
-[Home](/pages/enUS/Getting_Started.md)
-
-if broken try the following:
-[alternative relative link 1](/pages/enUS/Getting_Started);
-[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started.html).
+[[Home]](../../about) [[Getting Started]](../../GettingStarted)
 
 # Get going with *jupyter notebook*
 

@@ -73,23 +73,7 @@ While, in order to interact with our ipynb lectures locally, you need to setup a
 
 * setup *Anaconda* to interact with our ipynb lectures locally
 
-We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started.md).
-
-if broken try the following:
-[alternative relative link 1](/pages/enUS/Getting_Started.md);
-[alternative relative link 2](pages/enUS/Getting_Started.md);
-
-[alternative relative link 7](/pages/enUS/Getting_Started); ****
-[alternative relative link 8](pages/enUS/Getting_Started);
-
-[alternative relative link 3](/Getting_Started.md); ****
-[alternative relative link 4](Getting_Started.md); ****
-
-
-[alternative relative link 5](/Getting_Started);
-[alternative relative link 6](Getting_Started); ***
-
-[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started.html).
+We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](GettingStarted).
 
 ## Our material
 
@@ -108,11 +92,7 @@ To get involved in our collaborative effort, sign up on GitHub to be able to
   * improve or develop (got any ideas? create or solve *issues*)
   * submit (we will evaluate your proposals and merge into our project, become a collaborator)
 
-We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](/pages/enUS/Getting_Involved.md).
-
-if broken try the following:
-[alternative relative link 1](/pages/enUS/Getting_Involved);
-[alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Involved.html).
+We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](GettingInvolved).
 
 # Credits
 
