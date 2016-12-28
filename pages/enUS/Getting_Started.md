@@ -23,6 +23,8 @@ we prepared a step-by-step guide for setup on win [here](/pages/enUS/Getting_Sta
 
 if broken try the following:
 [alternative relative link 1](/pages/enUS/Getting_Started_/Windows/Get_going_with_Jupyter_notebook);
+[alternative relative link 2](/Getting_Started_/Windows/Get_going_with_Jupyter_notebook);
+[alternative relative link 3](/Getting_Started_/Windows/Get_going_with_Jupyter_notebook);
 [alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started_/Windows/Get_going_with_Jupyter_notebook.html).
 
 there, we present the steps to start using those tools in a windows environment. However, note that all our material in this repository is open source and should be able to run with the free tools mentioned also in a [free operating system](http://www.ubuntu.com/).

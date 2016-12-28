@@ -76,7 +76,19 @@ While, in order to interact with our ipynb lectures locally, you need to setup a
 We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](/pages/enUS/Getting_Started.md).
 
 if broken try the following:
-[alternative relative link 1](/pages/enUS/Getting_Started);
+[alternative relative link 1](/pages/enUS/Getting_Started.md);
+[alternative relative link 2](pages/enUS/Getting_Started.md);
+
+[alternative relative link 7](/pages/enUS/Getting_Started); ****
+[alternative relative link 8](pages/enUS/Getting_Started);
+
+[alternative relative link 3](/Getting_Started.md); ****
+[alternative relative link 4](Getting_Started.md); ****
+
+
+[alternative relative link 5](/Getting_Started);
+[alternative relative link 6](Getting_Started); ***
+
 [alternative absolute link](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/pages/enUS/Getting_Started.html).
 
 ## Our material
