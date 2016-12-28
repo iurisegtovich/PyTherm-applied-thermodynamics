@@ -1,6 +1,6 @@
 # Menu
 
-[Home](about)
+[[Home]](about)
 
 ---
 
