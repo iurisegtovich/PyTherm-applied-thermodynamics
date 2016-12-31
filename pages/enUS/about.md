@@ -94,6 +94,12 @@ To get involved in our collaborative effort, sign up on GitHub to be able to
 
 We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](GettingInvolved).
 
+## External References
+
+We would like to acknowledge some prior work that inspire us
+
+See also a more complete list of works at github.com/iurisegtovich/AwesomeThermodynamics
+
 # Credits
 
 ## Collaborators
