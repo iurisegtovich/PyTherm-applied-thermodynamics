@@ -1,9 +1,3 @@
-# Menu
-
-[[Home]](../index)
-
----
-
 # Getting started
 
 You can interact with them directly and modify them by changing inputs or instructions and seeing how results change along. For that, you have to download each file and run them in a *Jupyter notebook* execution in your own device. The easiest way of installing *Jupyter notebook*, along with *Python*, *numpy*, *sympy* and *matplotlib* is through the *Anaconda*  bundle (it’s free).
@@ -15,7 +9,7 @@ install anaconda from the official site
 
 it provides releases for win / linux/ mac
 
-we prepared a step-by-step guide for setup on win [here](gs/win/Get_going_with_Jupyter_notebook)
+we prepared a step-by-step guide for setup on win [here](gs/win/Get_going_with_Jupyter_notebook.md)
 
 there, we present the steps to start using those tools in a windows environment. However, note that all our material in this repository is open source and should be able to run with the free tools mentioned also in a [free operating system](http://www.ubuntu.com/).
 

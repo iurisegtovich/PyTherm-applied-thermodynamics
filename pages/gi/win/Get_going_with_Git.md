@@ -1,7 +1,3 @@
-# Menu
-
-[[Home]](../../../index) [[Getting Involved]](../../GettingInvolved)
-
 # Get going with *GitHub*.
 
 In order to be able to submit your contributions you will need to have an account in *GitHub* and to install *Git*. Here are the key steps to submit modifications:
@@ -53,7 +49,7 @@ In order to be able to submit your contributions you will need to have an accoun
 
 ## time for those modifications
 
-just edit the files using jupyter notebook. see [Get going with jupyter notebook](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/Getting_started/Get_going_with_Windows/1_Get_going_with_Jupyter_notebook.md) for that, if you haven't done it already. You can use jupyter notebook both for \*.ipynb files and \*.md files.
+just edit the files using jupyter notebook. see "Get going with jupyter notebook" for that, if you haven't done it already. You can use jupyter notebook both for \*.ipynb files and \*.md files.
 
 > **Note:**  if you downloaded the zip file, extracted and edit the files, then any modification you made there can enter here by pasting/replacing your files with the files just pulled from the repository.
 
