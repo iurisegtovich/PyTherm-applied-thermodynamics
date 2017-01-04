@@ -6,13 +6,13 @@ We have a GitHub-pages website, check it out [here]( https://iurisegtovich.githu
 
 # Repository structure:
 
-  * optimized for mybinder navigation:
+  * optimized for nbviewer and mybinder navigation:
 
-See on gitHub [here](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/blob/master/index.ipynb)
+**See on nbviewer [here](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)**
 
 or
 
- **Launch in interactive cloud computing supported by myBinder (may take a while depending on the [server](http://docs.mybinder.org/faq) )**
+ **Launch in interactive cloud computing supported by myBinder (may take a while depending on the server**
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)
 
