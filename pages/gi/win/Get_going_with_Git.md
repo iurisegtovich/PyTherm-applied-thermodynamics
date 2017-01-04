@@ -1,6 +1,6 @@
 # Menu
 
-[[Home]](../../about) [[Getting Involved]](../../GettingInvolved)
+[[Home]](../../../index.md) [[Getting Involved]](../../GettingInvolved.md)
 
 # Get going with *GitHub*.
 

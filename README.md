@@ -1,1 +1,1 @@
-this is source files for website at https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/
+these are the source files for the website at https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/
