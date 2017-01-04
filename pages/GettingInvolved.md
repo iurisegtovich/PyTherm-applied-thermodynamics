@@ -1,6 +1,6 @@
 # Menu
 
-[[Home]](../index.md)
+[[Home]](../index)
 
 ---
 

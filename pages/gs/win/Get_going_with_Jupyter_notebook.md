@@ -1,6 +1,6 @@
 # Menu
 
-[[Home]](../../.../index.md) [[Getting Started]](../../GettingStarted.md)
+[[Home]](../../../index) [[Getting Started]](../../GettingStarted)
 
 # Get going with *jupyter notebook*
 

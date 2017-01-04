@@ -158,6 +158,6 @@ Several of the authors of IPython are connected with academic and scientific res
 
 ##### [nbviewer](http://nbviewer.jupyter.org/faq)
 
-#####[jekyll](https://jekyllrb.com/docs/github-pages/)
+##### [jekyll](https://jekyllrb.com/docs/github-pages/)
 
-#####[myBinder](http://docs.mybinder.org/faq)
+##### [myBinder](http://docs.mybinder.org/faq)
