@@ -38,7 +38,7 @@
 
  * Our zeroth lectures can run remotely on python tutor live, by Philip Guo. Try them on your browser:
 
-[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/index/zeroth-lectures.ipynb)
+[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/zeroth-lectures/zeroth-lectures.ipynb)
 
  * Our main lectures can run remotely on myBinder. Try them on your browser:
 
