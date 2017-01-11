@@ -1,163 +1,79 @@
-# The Pytherm project
+# About the project
 
-This is our project of open source computational resources for students of Applied Thermodynamics. Our target audience are students that may not yet know what *Python* is, so we will present brief introductions and point to some tutorial material on that and other tools that we require.
+![graphical abstract](figs/graphical-abstract.PNG)
 
-The content you will see here is curated by us members of this research group, and either developed by ourselves or adapted from cited sources. We are always accepting indirect suggestions as well as direct contributions.
-We are developing our material in the *Python* programming language, through the *Jupyter notebook* interface. If you are not familiar with these tools, *Python* is a programming language that can work with some useful libraries for numerical methods (*numpy*), symbolic algebra (*sympy*) and graphical plots (*matplotlib*) comparable to Matlab. *Jupyter notebook*, on the other hand, is a browser based interface for developing *Python* codes, with intercalating blocks of descriptive documentation and graphical results for easy exposition of the code and underlying ideas in an educational material. Finally, *GitHub* is the website that provides hosting of open source projects from developers (students, researchers, engineers) from all around the world, including ours.
+* Develop and publish open source computational course materials for students of Applied Thermodynamics and make them widely available.
 
-## Goals
+* Host a virtual laboratory for analysis, development and testing of models and algorithms
 
-We have divided our goals in three categories
+* Provide support for the development of research and engineering level packages to fill gaps in the scientific literature of the open source community.
 
-### Accessible interactive lectures
+## Scientific computing
 
-* Development of study material for beginners in applied thermodynamics with programming / scientific computing. These materials are suitable for either undergraduate or graduate level courses.
+![scipy plus atoms](figs/scipy-plus-atoms.PNG)
 
-* We are basing our project on scientific computing tools with focus on accessibility: We are developing lectures using pure python that can run on *python tutor live* on any computer with internet access, and lectures using the scipy stack on jupyter notebooks that can run on a variety of operational systems via the anaconda setup or on cloud computing supported by *myBinder*.
+* We build our computations on top of the *SciPy* stack -- a Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
->- **Scipy** - the Open Source Library of Scientific Tools
->
->- **Anaconda** - the leading open data science platform powered by Python, a high performance distribution with access to over 720 packages.
->
->- **myBinder** - With Binder, you can add a badge that opens those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 100% free and open source.
+## Development platform
 
-### Models & algorithms laboratory
+![development platform](figs/dev-platform.PNG)
 
-* We intend to publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications.
+* We build our content in the *jupyter-notebook* format, using the *anaconda* accessible distribution of the SciPy stack,  fow windows, osx and linux.
 
-* We will host a virtual laboratory for analysis, development and testing of models and algorithms.
+* We are able to launch our content in web readable format using jupyter's *nbviewer*, GitHub's *gh-pages* and compatible *Jekyll* theme.
 
-### Software incubator
+* We make our content available to the remote executable environments of *Python Tutor* and *myBinder*.
 
-* We will host a software incubator  to develop research level packages for advanced level graduate students and researchers  to fill gaps in the scientific literature of the open source community.
+* We host our whole project on *GitHub*
 
-* This will span independent projects that will most likely be hosted in independent GitHub repositories, nevertheless still being part of the PyTherm project. Or even additions to existing projects.
+[Click to read more about the project >>](pages/about.md)
 
-* Expect usage of performance optimization tools and references to external available packages here rather than reinventions, when applicable.
+# Read statically
 
->**Current topics of interest in our research include:**
->
->* Classical thermodynamics fundamentals
->   * Mass balance, energy balance and the 1st law
->   * Entropy and the 2nd law
->   * Chemical reaction
->   * Combustion engines
->   * PxH diagrams
->   * Pure substance L-V saturation curve
->   * Cycles
->   * Critical points
->* Molecular models  
->   * Volumetric Equations of state
->   * Excess Gibbs energy models
->   * Pure solid and solid solution phases properties models
->* Phase and reaction equilibria algorithms  
->   * Stability analysis
->   * Bubble point and dew point calculations
->   * Flash calculations
+* Reading our material statically in web page format is straightforward from your browser:
 
-# Contents
+[ > Read statically online ](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)
 
-## Getting Started
+# Read interactively
 
-Reading our material is straightforward from your browser:
+ * Our zeroth lectures can run remotely on python tutor live, by Philip Guo. Try them on your browser:
 
-* You can run lecture zero on *python tutor live* from your browser
+[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/contents/index/zeroth-lectures.ipynb)
 
-* You can read our pre-calculated ipynb lectures rendered by GitHub on your browser too
+ * Our main lectures can run remotely on myBinder. Try them on your browser:
 
-* You can interact with the notebooks from the ipynb lectures using binder on your browser, with cloud computing supported by myBinder
+[< ! > Check the system status](http://mybinder.org/status)
 
-For these three kinds of involvement, just skip to our complete Table of contents and choose specific materials.
+[ >_ Main lectures - Read interactively](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)
 
-While, in order to interact with our ipynb lectures locally, you need to setup anaconda
+# Setup locally
 
-* setup *Anaconda* to interact with our ipynb lectures locally
+* Download our whole content package, either as zip or as tar.
 
-We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup [here](pages/GettingStarted.md).
+[< ZIP > Download](http://github.com/iurisegtovich/PyTherm-applied-thermodynamics/zipball/master)
 
-## Our material
+[< TAR >  Download](http://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tarball/master)
 
-Access the complete Table of Contents in one of the two formats below
+* To run locally and develop on top of our content, we recommend setting up Python and the SciPy stack using the anaconda distribution.
 
-**In order to read pre-calculated results rendered by nbviewer on your browser, click [here](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)**
+[Click to read more about setting up locally >>](pages/setup.md)
 
-**In order to launch our material in interactive cloud computing mode supported by myBinder, click [here](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)** (this may take a while depending on the server.)
+# Get involved
 
-## Getting Involved
+* Ours is an open source project in early development stage. In order to get involved, either reach out via e-mail, or sign up on GitHub and use their collaborative work tools.
 
-To get involved in our collaborative effort, sign up on GitHub to be able to
-  * star (1 click to show us your support)
-  * watch (receive notifications of updates via email)
-  * fork (have a full featured copy of our project into your account to do as you please)
-  * improve or develop (got any ideas? create or solve *issues*)
-  * submit (we will evaluate your proposals and merge into our project, become a collaborator)
+[Click to read more about getting involved >>](pages/getinvolved.md)
 
-We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff [here](pages/GettingInvolved.md).
+# Acknowledgements
 
-## External References
+* This work is currently being developed in [ATOMS][ATOMS-site] - the *laboratory of applied thermodynamics and molecular simulation* of UFRJ, Brazil.
 
-We would like to acknowledge some prior work that inspire us
+[ATOMS-site]: http://atoms.peq.coppe.ufrj.br
 
-See also a more complete list of works at github.com/iurisegtovich/AwesomeThermodynamics
+* We would like to acknowledge the platform tools that make this work possible and also some prior and concurrent work that inspire us.
 
-# Credits
+[Click to read on >>](pages/acknowledgements.md)
 
-## Collaborators
+---
 
-* Creators
-  - Fernando de Azevedo Medeiros
-  - Iuri Soter Viana Segtovich
-
-* Contributors
-  - Guilherme Carneiro Queiroz da Silva
-  - Rafael Pereira do Carmo
-  - `your name here`
-
-## License
-[Free as in Freedom ](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
-
-### The tools with which we build our project and their licenses or terms of service
-
-Learn about open source licences [here](https://opensource.org/licenses).
-
-##### [Git](https://git-scm.com/about/free-and-open-source) (GNU GPL 2.0)
-
-The Git project chose to use GPLv2 to guarantee your freedom to share and change free software---to make sure the software is free for all its users.
-
-##### [GitHub](https://help.github.com/articles/github-terms-of-service/)
-
-GitHub Terms of Service
-
-##### [Anaconda](https://docs.continuum.io/anaconda/eula) (BSD license)
-
-All rights reserved under the 3-clause BSD License.
-
-##### [Python](https://www.python.org/about/legal/) (BSD license)
-
-Python, its standard libraries, and Jython, are distributed under the Python License. The intellectual property rights behind Python and Jython are held and managed by the Python Software Foundation.
-
-##### [numpy](http://www.numpy.org/license.html) (BSD license)
-
-NumPy License (BSD Style)
-
-##### [sympy](http://docs.sympy.org/latest/aboutus.html#license) (BSD license)
-
-Unless stated otherwise, all files in the SymPy project, SymPy’s webpage (and wiki), all images and all documentation including this User’s Guide are licensed using the new BSD license.
-
-##### [matplotlib](http://matplotlib.org/users/license.html?highlight=license) (BSD license)
-
-Matplotlib only uses BSD compatible code, and its license is based on the PSF license. See the Open Source Initiative licenses page for details on individual licenses. Non-BSD compatible licenses (e.g., LGPL) are acceptable in matplotlib toolkits.
-
-##### [Jupyter notebook](http://jupyter.org/about.html) (BSD license)
-
-Jupyter uses a shared copyright model that enables all contributors to maintain the copyright on their contributions. All code is licensed under the terms of the revised BSD license.
-
-##### [Ipython](http://ipython.readthedocs.io/en/stable/about/license_and_copyright.html?highlight=license) (BSD license)
-
-Several of the authors of IPython are connected with academic and scientific research, so it is important for us to be able to show the impact of our work in other projects and fields. If IPython contributes to a project that leads to a scientific publication, please acknowledge this fact by citing the project. You can use this [ready-made citation entry](https://ipython.org/citing.html).
-
-##### [nbviewer](http://nbviewer.jupyter.org/faq)
-
-##### [jekyll](https://jekyllrb.com/docs/github-pages/)
-
-##### [myBinder](http://docs.mybinder.org/faq)
+ [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-red.svg)](http://www.gnu.org/licenses/gpl-3.0)

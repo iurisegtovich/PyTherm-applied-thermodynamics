@@ -1,4 +1,15 @@
-# Getting Involved
+## Getting Involved
+
+To get involved in our collaborative effort, sign up on GitHub to be able to
+  * star (1 click to show us your support)
+  * watch (receive notifications of updates via email)
+  * fork (have a full featured copy of our project into your account to do as you please)
+  * improve or develop (got any ideas? create or solve *issues*)
+  * submit (we will evaluate your proposals and merge into our project, become a collaborator)
+
+We prepared a getting involved text with direction to setup *github* and *git tools* and submit stuff
+
+
 To get involved, you can contribute with modifications. In order to do that, you will need to create an account for yourself in *GitHub* (also free). For minor propositions, you could modify any file in the browser and click "commit". However, for submission of more complex modifications (a modification that affects simultaneously more than one file), you should better install *Git* tools. *Git* is a software for version control of code and text (free too). This way you can download our `*.ipynb` files, run and edit them in an execution of *Jupyter notebook* in your device, and after modifications are done, submit the modified files to our repository in *GitHub* using *Git*.
 
 intall git from the official
@@ -8,7 +19,7 @@ intall git from the official
 
 it provides releases for win / linux/ mac
 
-we prepared a step-by-step guide for setup on win [here](gi/win/Get_going_with_Git.md)
+we prepared a step-by-step guide for setup on win [here](gettinginvolved/win/Get_going_with_Git.md)
 
 there, we present the steps to start using those tools in a windows environment. However, note that all our material in this repository is open source and should be able to run with the free tools mentioned also in a [free operating system](http://www.ubuntu.com/).
 
