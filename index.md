@@ -32,27 +32,27 @@
 
 * Reading our material statically in web page format is straightforward from your browser:
 
-[ > Read statically online ](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb)
+[ > Read statically online ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/index.ipynb)
 
 # Read interactively
 
  * Our zeroth lectures can run remotely on python tutor live, by Philip Guo. Try them on your browser:
 
-[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/contents/index/zeroth-lectures.ipynb)
+[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/index/zeroth-lectures.ipynb)
 
  * Our main lectures can run remotely on myBinder. Try them on your browser:
 
 [< ! > Check the system status](http://mybinder.org/status)
 
-[ >_ Main lectures - Read interactively](http://mybinder.org:/repo/iurisegtovich/pytherm-applied-thermodynamics)
+[ >_ Main lectures - Read interactively](http://mybinder.org:/repo/{{ site.github.owner_name }}/{{ site.github.repository_name }})
 
 # Setup locally
 
 * Download our whole content package, either as zip or as tar.
 
-[< ZIP > Download](http://github.com/iurisegtovich/PyTherm-applied-thermodynamics/zipball/master)
+[< ZIP > Download](http://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/zipball/master)
 
-[< TAR >  Download](http://github.com/iurisegtovich/PyTherm-applied-thermodynamics/tarball/master)
+[< TAR >  Download](http://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/tarball/master)
 
 * To run locally and develop on top of our content, we recommend setting up Python and the SciPy stack using the anaconda distribution.
 
