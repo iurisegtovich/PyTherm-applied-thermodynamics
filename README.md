@@ -4,7 +4,7 @@ Educational ipython source code for applied thermodynamics.
 
 # About the project:
 
-We have a GitHub-pages website, check it out [here]( https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/ )
+We have a GitHub-pages website, check it out [here]( https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/ )!
 
 # Repository structure:
 
