@@ -1,52 +1,39 @@
 # About the project
 
-![graphical abstract](figs/graphical-abstract.PNG)
-
-* Develop and publish open source computational course materials for students of Applied Thermodynamics and make them widely available.
-
-* Host a virtual laboratory for analysis, development and testing of models and algorithms
-
-* Provide support for the development of research and engineering level packages to fill gaps in the scientific literature of the open source community.
-
-## Scientific computing
-
 ![scipy plus atoms](figs/scipy-plus-atoms.PNG)
 
-* We build our computations on top of the *SciPy* stack -- a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+* Our main goal is to develop and publish open source interactive computational course materials for students of Applied Thermodynamics and make them widely available.
 
-## Development platform
-
-![development platform](figs/dev-platform.PNG)
-
-* We build our content in the *jupyter-notebook* format, using the *anaconda* accessible distribution of the SciPy stack,  fow windows, osx and linux.
-
-* We are able to launch our content in web readable format using jupyter's *nbviewer*, GitHub's *gh-pages* and compatible *Jekyll* theme.
-
-* We make our content available to the remote executable environments of *Python Tutor* and *myBinder*.
-
-* We host our whole project on *GitHub*
+* We do so on top of the *SciPy* stack -- a Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 [Click to read more about the project >>](pages/about.md)
 
-# Read statically
+# Interactive lectures & featured assignments
+
+![graphical abstract](figs/graphical-abstract.PNG)
+
+## Read statically
+
+![statically](figs/statically.PNG)
 
 * Reading our material statically in web page format is straightforward from your browser:
 
 [ > Read statically online ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/index.ipynb)
 
-# Read interactively
+## Read interactively
 
- * Our zeroth lectures can run remotely on python tutor live, by Philip Guo. Try them on your browser:
+![interactively](figs/interactively.PNG)
 
-[ >_ Zeroth lectures - Read interactively ](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/zeroth-lectures/zeroth-lectures.ipynb)
 
- * Our main lectures can run remotely on myBinder. Try them on your browser:
+ * You can also run our material remotely on myBinder. Try them also from your browser:
 
 [< ! > Check the system status](http://mybinder.org/status)
 
 [ >_ Main lectures - Read interactively](http://mybinder.org:/repo/{{ site.github.owner_name }}/{{ site.github.repository_name }})
 
-# Setup locally
+## Setup locally
+
+![locally](figs/locally.PNG)
 
 * Download our whole content package, either as zip or as tar.
 
@@ -58,13 +45,30 @@
 
 [Click to read more about setting up locally >>](pages/setup.md)
 
+# Models & algorithms laboratory
+
+![M&A laboratory](figs/mealab.PNG)
+
+[Click to see the table of contents of our models & algorithms laboratory >>](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/models-and-algorithms-laboratory/models-and-algorithms-laboratory.ipynb)
+
+# Scientific packages development
+
+![makefile](figs/makefile.png)
+
+
+[Click to see the table of contents of our scientific packages development >>](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/software-incubator/software-incubator.ipynb)
+
 # Get involved
+
+![get involved](figs/githubscre.png)
 
 * Ours is an open source project in early development stage. In order to get involved, either reach out via e-mail, or sign up on GitHub and use their collaborative work tools.
 
 [Click to read more about getting involved >>](pages/getinvolved.md)
 
 # Acknowledgements
+
+![acknowledgements](figs/acknowledgements.PNG)
 
 * This work is currently being developed in [ATOMS][ATOMS-site] - the *laboratory of applied thermodynamics and molecular simulation* of UFRJ, Brazil.
 
