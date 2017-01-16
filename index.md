@@ -4,13 +4,15 @@
 
 * Our main goal is to develop and publish open source interactive computational course materials for students of Applied Thermodynamics and make them widely available.
 
-* We do so on top of the *SciPy* stack -- a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+* We do so on top of the *SciPy* stack -- a Python-based ecosystem of open-source software for mathematics, science, and engineering. *(We are not affiliated with or endorsed by SciPy.org nor all the other great open source platform that we make use of and highlight here in any way.)*
 
 [Click to read more about the project >>](pages/about.md)
 
-# Interactive lectures & featured assignments
+# Courseware content
 
 ![graphical abstract](figs/graphical-abstract.PNG)
+
+* Find here our courseware content, access in any of the three following ways:
 
 ## Read statically
 
@@ -23,7 +25,6 @@
 ## Read interactively
 
 ![interactively](figs/interactively.PNG)
-
 
  * You can also run our material remotely on myBinder. Try them also from your browser:
 
@@ -47,22 +48,25 @@
 
 # Models & algorithms laboratory
 
-![M&A laboratory](figs/mealab.PNG)
+![M&A laboratory](figs/mnalab.PNG)
 
-[Click to see the table of contents of our models & algorithms laboratory >>](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/models-and-algorithms-laboratory/models-and-algorithms-laboratory.ipynb)
+* On our models & algorithms laboratory, we intend to publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications. This way objective quantitative comparison of classic, stated-of-art and newly proposed methodologies is possible.
 
-# Scientific packages development
+[Click to read more about our models and algorithms laboratory >>](pages/software-incubator.md)
 
-![makefile](figs/makefile.png)
+# Scientific packages development incubator
 
+![makefile](figs/makefile.PNG)
 
-[Click to see the table of contents of our scientific packages development >>](http://nbviewer.jupyter.org/github/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/contents/software-incubator/software-incubator.ipynb)
+*  On our scientific packages development incubator ee intend to develop research level packages for advanced level graduate students and researchers to fill gaps in the scientific literature of the open source community.
+
+[Click to read more about our scientific packages development >>](pages/software-incubator.md)
 
 # Get involved
 
-![get involved](figs/githubscre.png)
+![get involved](figs/github-scr.PNG)
 
-* Ours is an open source project in early development stage. In order to get involved, either reach out via e-mail, or sign up on GitHub and use their collaborative work tools.
+* Ours is an open source project in early development stage hosted on the open source community of GitHub. In order to get involved, either reach out via e-mail, or sign up on GitHub and use their collaborative work tools.
 
 [Click to read more about getting involved >>](pages/getinvolved.md)
 

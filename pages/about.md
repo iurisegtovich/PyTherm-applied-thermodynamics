@@ -37,6 +37,13 @@ We have divided our goals in three categories
 
 * We host our whole project on *GitHub*
 
+### courseware content
+
+	* Interactive lectures on jupyter
+	* Featured assignments from undergraduate/graduate students,
+	* Textbook companions
+	* Supplementary texts
+
 ### Models & algorithms laboratory
 
 * this is our second goal, on standby
