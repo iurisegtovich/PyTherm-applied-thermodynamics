@@ -52,7 +52,7 @@
 
 * On our models & algorithms laboratory, we intend to publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications. This way objective quantitative comparison of classic, stated-of-art and newly proposed methodologies is possible.
 
-[Click to read more about our models and algorithms laboratory >>](pages/software-incubator.md)
+[Click to read more about our models and algorithms laboratory >>](pages/models-and-algorithms-laboratory.md)
 
 # Scientific packages development incubator
 
