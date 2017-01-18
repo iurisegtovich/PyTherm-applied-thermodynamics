@@ -1,10 +1,4 @@
-While, in order to interact with our ipynb lectures locally, you need to setup anaconda
-
-* setup *Anaconda* to interact with our ipynb lectures locally
-
-We prepared a Getting Started text to help interested folks with minimal background get started with anaconda setup
-
-# Getting started
+# Setup locally
 
 You can interact with them directly and modify them by changing inputs or instructions and seeing how results change along. For that, you have to download each file and run them in a *Jupyter notebook* execution in your own device. The easiest way of installing *Jupyter notebook*, along with *Python*, *numpy*, *sympy* and *matplotlib* is through the *Anaconda*  bundle (it’s free).
 
@@ -13,7 +7,7 @@ install anaconda from the official site
 * *Anaconda*:
 	* [Official page](https://www.continuum.io)
 
-it provides releases for win / linux/ mac
+it provides releases for win / linux / mac
 
 we prepared a step-by-step guide for setup on win [here](settingup/win/Get_going_with_Jupyter_notebook.md)
 

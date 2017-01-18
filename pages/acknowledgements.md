@@ -1,11 +1,4 @@
-
-## External References
-
-We would like to acknowledge some prior work that inspire us
-
-See also a more complete list of works at [AwesomeThermodynamics](https://github.com/iurisegtovich/AwesomeThermodynamics)
-
-# Credits
+# Acknowledgements
 
 ## Collaborators
 
@@ -16,7 +9,50 @@ See also a more complete list of works at [AwesomeThermodynamics](https://github
 * Contributors
   - Guilherme Carneiro Queiroz da Silva
   - Rafael Pereira do Carmo
-  - `your name here`
+  - [`your name here`](http://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/graphs/contributors)
+
+## Prior work
+
+We would like to acknowledge some prior work that inspire us
+
+##### nrthermo's pvdiagram < http://nrthermo.tk/pvdiagrams/ >
+>"Numerical recipes applied to thermodynamics
+>This is a bunch of old C programs based on the good ol' Numerical Recipes http://www.nr.com/.
+>There are three computational physics problems proposed:"
+>
+> Here in Pytherm we plan on including some examples similar to the ones presented there: van der Waals equation of state, the p-v diagram, the Binodal Curve, the Boyle temperature, and the Compressibility diagram. However in python with numpy/scipy/sympy and matplotlib, while they did in c with numerical recipes and independent plotting tools.
+
+##### Taylor' thermodynamics with maple
+>"We consider the use of a computer algebra system to carry out the symbolic computations needed in thermodynamics. A package for Maple is described and illustrated with several examples involving the creation and manipulation of thermodynamic derivatives."
+> http://dx.doi.org/10.1016/S0378-4754(97)00089-X
+>
+>"A computer algebra system (Maple) is used for the construction, display, and analysis of residue curve maps. This problem from engineering thermodynamics presents an interesting array of computational problems ranging from symbolic (for deriving the equations), through numerical (solving systems of nonlinear algebraic equations, systems of ordinary differential equations (ODEs) and systems of differential algebraic equations (DAEs), to graphical (for displaying the results)."
+> http://dx.doi.org/10.1016/S0378-4754(97)00090-6
+
+##### Castier' thermodynamics with mathematica -- THERMATH
+>""
+> http://dx.doi.org/10.1016/S0098-1354(99)00286-0
+
+##### Gibbs live
+>"By Thomas Cool1, R. Edwin García1, Alex Bartol1
+
+> 1. Purdue University
+>
+> Python-based libraries for the calculation of phase diagrams and thermodynamic properties"
+> < tool on a live executable environment by nanohub > https://nanohub.org/tools/gibbs"
+> < publication> http://dx.doi.org/10.1016/j.calphad.2010.07.005
+
+##### FOSSEE' textbook companion project
+> (in python:) http://tbc-python.fossee.in/
+
+
+##### MIT open courseware https://ocw.mit.edu/courses/
+“The idea is simple: to publish all of our course materials online and make them widely available to everyone." - Dick K.P. Yue, Professor, MIT School of Engineering
+
+##### http://readiab.org/
+"a free, open source interactive text that introduces readers to core concepts of bioinformatics in the context of their implementation and application."
+
+* See also a more complete list of works at [AwesomeThermodynamics](https://github.com/iurisegtovich/AwesomeThermodynamics)
 
 ## License
 [GNU GPL3 ](https://www.gnu.org/licenses/quick-guide-gplv3.en.html): Free as in Freedom

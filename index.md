@@ -1,6 +1,6 @@
 # About the project
 
-![scipy plus atoms](figs/scipy-plus-atoms.PNG)
+[![scipy plus atoms](figs/scipy-plus-atoms.PNG)](figs/scipy-plus-atoms.PNG)
 
 * Our main goal is to develop and publish open source interactive computational course materials for students of Applied Thermodynamics and make them widely available.
 
@@ -10,13 +10,13 @@
 
 # Courseware content
 
-![graphical abstract](figs/graphical-abstract.PNG)
+[![graphical abstract](figs/graphical-abstract.PNG)](figs/graphical-abstract.PNG)
 
 * Find here our courseware content, access in any of the three following ways:
 
 ## Read statically
 
-![statically](figs/statically.PNG)
+[![statically](figs/statically.PNG)](figs/statically.PNG)
 
 * Reading our material statically in web page format is straightforward from your browser:
 
@@ -24,7 +24,7 @@
 
 ## Read interactively
 
-![interactively](figs/interactively.PNG)
+[![interactively](figs/interactively.PNG)](figs/interactively.PNG)
 
  * You can also run our material remotely on myBinder. Try them also from your browser:
 
@@ -34,7 +34,7 @@
 
 ## Setup locally
 
-![locally](figs/locally.PNG)
+[![locally](figs/locally.PNG)](figs/locally.PNG)
 
 * Download our whole content package, either as zip or as tar.
 
@@ -48,7 +48,7 @@
 
 # Models & algorithms laboratory
 
-![M&A laboratory](figs/mnalab.PNG)
+[![M&A laboratory](figs/mnalab.PNG)](figs/mnalab.PNG)
 
 * On our models & algorithms laboratory, we intend to publish well documented and open source implementations of topics of interest in thermodynamics for intermediate level students in thermodynamics and in programming / scientific computing, with complete reference to original journal or textbook publications. This way objective quantitative comparison of classic, stated-of-art and newly proposed methodologies is possible.
 
@@ -56,7 +56,7 @@
 
 # Scientific packages development incubator
 
-![makefile](figs/makefile.PNG)
+[![makefile](figs/makefile.PNG)](figs/makefile.PNG)
 
 *  On our scientific packages development incubator ee intend to develop research level packages for advanced level graduate students and researchers to fill gaps in the scientific literature of the open source community.
 
@@ -64,7 +64,7 @@
 
 # Get involved
 
-![get involved](figs/github-scr.PNG)
+[![get involved](figs/github-scr.PNG)](figs/github-scr.PNG)
 
 * Ours is an open source project in early development stage hosted on the open source community of GitHub. In order to get involved, either reach out via e-mail, or sign up on GitHub and use their collaborative work tools.
 
@@ -72,7 +72,7 @@
 
 # Acknowledgements
 
-![acknowledgements](figs/acknowledgements.PNG)
+[![acknowledgements](figs/acknowledgements.PNG)](figs/acknowledgements.PNG)
 
 * This work is currently being developed in [ATOMS][ATOMS-site] - the *laboratory of applied thermodynamics and molecular simulation* of UFRJ, Brazil.
 

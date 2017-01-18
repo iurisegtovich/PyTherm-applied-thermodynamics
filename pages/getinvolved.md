@@ -1,4 +1,4 @@
-## Getting Involved
+# Getting Involved
 
 To get involved in our collaborative effort, sign up on GitHub to be able to
   * star (1 click to show us your support)
@@ -17,7 +17,7 @@ intall git from the official
 * *Git*:
 	* [Official page](https://git-scm.com/)
 
-it provides releases for win / linux/ mac
+it provides releases for win / linux / osx
 
 we prepared a step-by-step guide for setup on win [here](gettinginvolved/win/Get_going_with_Git.md)
 
