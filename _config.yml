@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 show_downloads: true
+# Google services
+google_analytics: UA-91952343-1
