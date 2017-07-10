@@ -42,6 +42,16 @@ We would like to acknowledge some prior work that inspire us
 > < tool on a live executable environment by nanohub > https://nanohub.org/tools/gibbs"
 > < publication> http://dx.doi.org/10.1016/j.calphad.2010.07.005
 
+##### Sur
+> A fortran+pýthon open source project for thermodynamic models and algorithms for phase equilibria - https://github.com/phasety/sur
+> See also pyther - https://github.com/pysg/pyther
+
+##### DWSIM
+> an open source chemical engineering process simulator - https://github.com/DanWBR/dwsim4 - and its Standalone thermodynamics library https://github.com/DanWBR/DTL
+
+##### CalebBell' thermo
+ > "Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL) - https://github.com/CalebBell/thermo
+
 ##### FOSSEE' textbook companion project
 > (in python:) http://tbc-python.fossee.in/
 
