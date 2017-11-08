@@ -1,6 +1,6 @@
 # Poster
 
-(poster in pdf format, direct link »)[https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/archive/presentation/20171109-UFRJ-ptBR-coloquio-peq/20171108b--Segtovich%2C%20Medeiros%20%26%20Tavares%2C%20col%C3%B3quio-peq-2017.pdf]
+[poster in pdf format, direct link »](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/raw/gh-pages/archive/presentation/20171109-UFRJ-ptBR-coloquio-peq/20171108b--Segtovich-Medeiros-Tavares--coloquio-peq-2017.pdf)
 
 # References
 
