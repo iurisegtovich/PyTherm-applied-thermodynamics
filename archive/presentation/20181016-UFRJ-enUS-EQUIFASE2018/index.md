@@ -1,6 +1,6 @@
 # Poster
 
-[poster in pdf format, (~5 MiB) direct link »](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/raw/gh-pages/archive/presentation/20181016-UFRJ-enUS-EQUIFASE2018/file.pdf)
+[poster in pdf format, (~5 MiB) direct link »](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/raw/gh-pages/archive/presentation/pytherm_ATOMS_EQUIFASE2018.pdf)
 
 # References
 
